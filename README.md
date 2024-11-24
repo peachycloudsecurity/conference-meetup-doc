@@ -44,7 +44,7 @@ This repository is a curated collection of:
 ### 2023
 
 - **C0c0n Kerala 2023**
-  - Talk: *"Serverless Siege: Cloud Function Pentesting"*  
+  - Talk: [*"Serverless Siege: Cloud Function Pentesting"*](/2023/AWS-Serverless-Pentesting-C0c0n-2023.pdf)
 
 ---
 
