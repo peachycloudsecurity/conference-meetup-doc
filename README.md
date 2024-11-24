@@ -28,18 +28,18 @@ This repository is a curated collection of:
   - Workshop: *"AWS EKS Security Masterclass"*  (TBD)
 
 - **CSA November Monthly Meetup at Myntra, by Flipkart**  
-  - Talk: *"Policy as Code for Cloud Security"*
-  - 
+  - Talk: [*"Policy as Code for Cloud Security"*](/2024/Policy-as-Code-Anjali-Insights.pdf)
+
 - **CSA October Monthly Meetup at 7 Eleven**  
-  - Talk: *"AWS DevSecOps Integration"*
+  - Talk: [*"AWS DevSecOps Integration"*](/2024/AWS-DevSecOps-Strategies-for-7Eleven.pdf)
 
 - **BSides Ahmedabad**  
   - Talk: *"AWS EKS Red Team Masterclass"*
-    - 📃 [Documentation](https://lnkd.in/g8HdEihQ)
-    - 🥼 [Lab](https://lnkd.in/gSutFS7c)
+    - 📃 [Documentation](https://ekssecurity.kubernetesvillage.com/)
+    - 🥼 [Lab](https://github.com/kubernetesvillage/ecr_eks_security_masterclass_public)
 
 - **BSides Bangalore Annual Conference**  
-  - Talk: *"Beginner's Guide to Bypassing Falco Security"*  
+  - Talk: [*"Beginner's Guide to Bypassing Falco Security"*](/2024/Kubernetes-Security-Bypassing-Falco-BSides-Anjali.pdf)
 
 ### 2023
 
