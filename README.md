@@ -31,7 +31,7 @@ This repository is a curated collection of:
   - Talk: [*"Policy as Code for Cloud Security"*](/2024/Policy-as-Code-Anjali-Insights.pdf)
 
 - **CSA October Monthly Meetup at 7 Eleven**  
-  - Talk: [*"AWS DevSecOps Integration"*](/2024/AWS-DevSecOps-Strategies-for-7Eleven.pdf)
+  - Talk: [*"AWS DevSecOps Integration"*](/2024/AWS-DevSecOps-Integration-at-7Eleven.pdf)
 
 - **BSides Ahmedabad**  
   - Talk: *"AWS EKS Red Team Masterclass"*
