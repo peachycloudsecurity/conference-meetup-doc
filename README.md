@@ -50,6 +50,7 @@ This repository is a curated collection of:
 
 ## Credits
 - Credits in the respective ppt.
+- Labs generated via Chatgpt.
 
 ## **How to Contribute**
 If you attended one of my talks or workshops and have suggestions, feedback, or additional resources to share, feel free to create an issue or open a pull request. This repository is a community-driven effort to enhance and document knowledge-sharing events.
