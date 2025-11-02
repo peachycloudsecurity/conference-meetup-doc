@@ -5,7 +5,7 @@ Welcome to my official repository for all the conferences, meetups, and events w
 ---
 
 ## **About Me**
-I am a senior cloud security engineer, founder of Kubernetes Village, and an AWS Community Builder. With over 6 years of experience in cloud security, Kubernetes (EKS/GKE), and DevSecOps, I’m passionate about sharing my knowledge and empowering the next generation of security professionals and women in tech.
+I am a senior cloud security engineer, founder of Container Security Village, and an AWS Community Builder. With over 6 years of experience in cloud security, Kubernetes (EKS/GKE), and DevSecOps, I’m passionate about sharing my knowledge and empowering the next generation of security professionals and women in tech.
 
 ---
 
