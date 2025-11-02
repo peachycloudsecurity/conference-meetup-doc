@@ -35,8 +35,8 @@ This repository is a curated collection of:
 
 - **BSides Ahmedabad**  
   - Talk: *"AWS EKS Red Team Masterclass"*
-    - 📃 [Documentation](https://ekssecurity.kubernetesvillage.com/)
-    - 🥼 [Lab](https://github.com/kubernetesvillage/ecr_eks_security_masterclass_public)
+    - 📃 [Documentation](https://eksgoat.kubernetesvillage.com/)
+    - 🥼 [Lab](https://github.com/OWASP/www-project-eks-goat)
 
 - **BSides Bangalore Annual Conference**  
   - Talk: [*"Beginner's Guide to Bypassing Falco Security"*](/2024/Kubernetes-Security-Bypassing-Falco-BSides-Anjali.pdf)
